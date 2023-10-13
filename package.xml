@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>offboard_control</name>
+  <name>offboard_control_example</name>
   <version>0.0.0</version>
   <description>Simple offboard control for PX4 in ROS 2.</description>
   <maintainer email="thijs.hof@home.nl">Thijs Hof</maintainer>
