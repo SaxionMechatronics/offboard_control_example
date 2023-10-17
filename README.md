@@ -23,5 +23,5 @@ position_control:
 ## Launch 
 
 ```shell
-ros 2 launch offboard_control_example position_control.launch.py
+ros2 launch offboard_control_example position_control.launch.py
 ```
