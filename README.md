@@ -25,3 +25,11 @@ position_control:
 ```shell
 ros2 launch offboard_control_example position_control.launch.py
 ```
+
+## Acknowledgment
+
+This training material was prepared and delivered as part of the Horizon Europe CSA project: AeroSTREAM (Grant Agreement number: 101071270).
+
+<p align="center">
+  <img src="./docs/aerostream-logo.png" alt="aerostream-logo"/>
+</p>
